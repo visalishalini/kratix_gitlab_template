@@ -1,0 +1,1 @@
+# kratix_gitlab_template
